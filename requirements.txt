@@ -1,0 +1,8 @@
+requests
+scapy
+pillow
+aiohttp
+dnspython
+paramiko
+pysocks
+phonenumbers
